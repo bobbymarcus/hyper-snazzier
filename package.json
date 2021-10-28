@@ -1,0 +1,23 @@
+{
+	"name": "hyper-snazzier",
+	"version": "0.0.1",
+	"description": "Hyper theme based on hyper-snazzier",
+	"license": "MIT",
+	"repository": "bobbymarcus/hyper-snazzy",
+	"author": {
+		"name": "Bobby Marcus",
+		"email": "bobby.s.marcus@gmail.com",
+		"url": "bobbymarcus.com"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"hyper",
+		"hyper-theme",
+		"elegant"
+	],
+	"dependencies": {
+		
+	}
+}
